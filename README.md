@@ -20,7 +20,7 @@ Kurulumu;
 
  
 
-git clone https://github.com/
+`git clone https://github.com/coderbycanpolat/anonimsms`
 
 
 
