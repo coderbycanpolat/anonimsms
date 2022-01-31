@@ -24,8 +24,8 @@ Kurulumu;
 
 
 
- `chmod +x canpolatgkkysms.py`
+ `chmod +x anonimsms.py`
 
  
 
-`python3 canpolatgkky.py`
+`python3 anonimsms.py`
