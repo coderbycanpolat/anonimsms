@@ -1,4 +1,4 @@
-# canpolatgkkysms#
+# anonimsms#
 
 Bu tool ile günde 1 defa Gizli olarak (yabancı numaradan) sms atabilirsiniz.
 
