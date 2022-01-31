@@ -28,4 +28,4 @@ Kurulumu;
 
  
 
-python3 canpolatgkky.py
+python3 canpolatgkky.py`
