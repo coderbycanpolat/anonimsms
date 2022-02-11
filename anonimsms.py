@@ -18,7 +18,7 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet - SMS GONDERME ARACI -")
+os.system("figlet -SMS GONDERME ARACI-")
 
 banner = """
          	       ->> Coder By Canpolatgkky <<-
